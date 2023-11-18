@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server",
+    "start-node": "node server",
     "dev": "nodemon server"
   },
   "author": "Todd Hickam",
